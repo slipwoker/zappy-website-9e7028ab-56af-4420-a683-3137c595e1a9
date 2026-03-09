@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Start your ant colony today with live queen ants and complete farm setups. Everything you need to observe fascinating ant behavior shipped directly to you.
+
+### Queens & Complete Setups
+https://example.com/queens-kits
+Browse our selection of live queen ants and all-inclusive ant farm kits. Each setup includes habitat, equipment, and everything needed to start your colony.
+
+### Learning
+https://example.com/learning
+Discover expert guides on raising queen ants, maintaining habitats, and understanding colony dynamics. Educational resources for beginners and enthusiasts alike.
+
+### Contact
+https://example.com/contact
+Have questions about queen ants or farm setups? Our team of ant specialists is ready to help you succeed with your colony. Reach out today for personalized guidance.
+
+### Products
+https://example.com/products
+Our Products - COLONY X
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - COLONY X
+
+### Category
+https://example.com/category/:slug
+Products - COLONY X
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
